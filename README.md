@@ -1,14 +1,14 @@
-### 🌍 Country Explorer
+###  Country Explorer
 Country Explorer is a simple React application that displays information about countries using a public API.
 
-### 🚀 Features
+###  Features
 Search countries by name
 
 ### View country flags
 
 Display capital, population, and region
 
-### 🛠 Technologies Used
+###  Technologies Used
 React JS
 
 Vite
@@ -17,12 +17,12 @@ CSS
 
 REST Countries API
 
-### ▶️ Run the Project
+###  Run the Project
 
 npm install
 npm run dev
 
-### 🌐 API Used
+###  API Used
 
 https://restcountries.com/v3.1/all
 
